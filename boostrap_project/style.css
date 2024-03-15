@@ -1,0 +1,24 @@
+.body{
+    background-color: #4B2D73;
+}
+
+.slide{
+    overflow: hidden;
+    height: 500px;
+}
+
+.first{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-primary {
+    background-color: #4B2D73;
+    border-color: #573485;
+}
+
+.btn-outline-success {
+    color : #4B2D73;
+    border-color: #573485;
+}
+
